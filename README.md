@@ -1,6 +1,9 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: 
+Languages: Python, R, SAS, C++, Java, MATLAB, HTML/CSS, JavaScript,ShellScripting, SQL
+Libraries & Frameworks: NetworkX, TensorFlow, NumPy, SciPy, Pandas, NLTK,Scikit-Learn,Flask,Plotly, D3
+Software: Visual Studio, Jupyter, Streamlit, Android Studio, Git, Google Analytics, PowerBI, Google Cloud, Docker
 
 ## Education							       		
 Stony Brook University New York, USA
@@ -56,8 +59,3 @@ techniques that effectively mitigated urban traffic congestion, reducing it by a
 **Panorama from Satellite Imagery using Distributed Computing August 2017 - January 2018**
 • Created panoramic satellite views by efficiently assembling drone-captured images from ISRO using Distributed
 Computing and Image processing, achieving a remarkable reduction in processing time.
-## Technical Skills
-Languages: Python, R, SAS, C++, Java, MATLAB, HTML/CSS, JavaScript,ShellScripting, SQL
-Libraries & Frameworks: NetworkX, TensorFlow, NumPy, SciPy, Pandas, NLTK,Scikit-Learn,Flask,Plotly, D3
-Software: Visual Studio, Jupyter, Streamlit, Android Studio, Git, Google Analytics, PowerBI, Google Cloud, Docker
-
