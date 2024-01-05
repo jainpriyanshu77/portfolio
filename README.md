@@ -2,54 +2,62 @@
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education							       		
+Stony Brook University New York, USA
+Master of Science in Data Science (GPA: 3.56/4) August 2023 – May 2025
+Relevant Courses: Probability, Data Science Funda., Data Analysis, Visualization, Statistical Modelling, Statistical Learning
+Medi-Caps University Indore, India
+Bachelor of Technology in Information Technology (GPA: 8.51/10.0) August 2017 - June 2021
+Relevant Courses: Data Structures & Algorithms, Database Systems, Operating Systems, Software Engineering, Big Data          		
+
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Tata Consultancy Services Pune, India**
+**Software Engineer(Data Science) July 2021 – August 2023**
+• Conceptualized a Machine learning solution for SKU mapping problem, leveraging character embeddings & AutoKeras
+techniques to reduce human error & time savings by 95%. Earned 1st place in Ideathon 4.0 competition, 2021 at TCS
+• Contributed to TCS’ Cognitive AI solution for deploying image and video analytics with artificial intelligence & building
+customized solutions with 92% increased process efficiency, resulting it being the most used tool using computer vision
+modules, enabling organizations to meet for 300+ users, 5 countries in weekly business reviews.
+• Launched ’Foretell 2.0’ using time series models to forecast the UPP demand, solving overstating (9.5% annual cost) &
+understating ($12 more/box) scenarios, integrated into the Demand360 (Supply & Inventory Management) suite.
+• Spearheaded a 4-member team to develop an artificially intelligent, contextual & conversational Chatbot to reduce the
+hassle of collating 10+ offline reports & answering questions related to business metrics, pricing & market performance.
+• Revamped the existing Inventory & Supply Chain - CPFR pipeline using SQL, on datasets with 5M+ records &
+performing data visualization using Power BI, resulting in 30%-time savings & revenue savings of $1M in tracking.
+• Bagged with the prestigious title of TCS Integration Rising Star Performer for the exceptional work in JLR Projects.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Casio India Noida, India**
+**Data Science Intern August 2019 - November 2019**
+• Led development of text-cleaning pipeline, reducing processing time by 40% to 7 seconds and expediting integration of
+data & building Image Segmentation Models using deep learning
+• Analyzed historical data and market trends to predict the need for scientific devices at a hyper-granular level in India.
+• Managed SQL database (over 40 tables with 100,000 rows) for models, integrated by mobile and web applications.
 
+**Universal Informatics Indore, India**
+**Technology Analyst Intern January 2019 - June 2019**
+• Developed Cognitive Search, an AI-based search application for a financial client & maintaining the data engineering
+along with statistical models based on linear regression, text mining, machine learning & dimensional restructuring.
+• Collaborated with the strategy analyst team to enhance clustering algorithms, boosting model accuracy, reliability, and
+developed a business solutions dashboard to convey technical insights to non-technical stakeholders via data storytelling
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+**Human Activity Recognition System August 2020 - July 2021**
+• Created a research-driven recognition model capable of classifying individuals’ actions and activities based on a series of
+measurements, achieving a remarkable accuracy increase of up to 90% and authored and published a paper on the same
+in the International Journal of Research and Analytical Reviews (IJRAR).
+**Covid-19 Analysis wrt Economic Exposure Index January 2020 - May 2020**
+• Implemented a comprehensive Covid-19 Analysis with a focus on Economic Exposure Index, utilizing Data Analysis and
+trained a neural network model with 2x improvement in predicting compared to traditional ML approaches.
+• Crafted a robust model that accurately identified and analyzed the Covid-19 impact on global companies, achieving an
+impressive accuracy rate of 93%.
+**Reinforcement Learning based Traffic Control System May 2018 - December 2019**
+• Designed an advanced Traffic Control System model, integrating Reinforcement Learning and Computer Vision
+techniques that effectively mitigated urban traffic congestion, reducing it by approximately 50%.
+**Panorama from Satellite Imagery using Distributed Computing August 2017 - January 2018**
+• Created panoramic satellite views by efficiently assembling drone-captured images from ISRO using Distributed
+Computing and Image processing, achieving a remarkable reduction in processing time.
+## Technical Skills
+Languages: Python, R, SAS, C++, Java, MATLAB, HTML/CSS, JavaScript,ShellScripting, SQL
+Libraries & Frameworks: NetworkX, TensorFlow, NumPy, SciPy, Pandas, NLTK,Scikit-Learn,Flask,Plotly, D3
+Software: Visual Studio, Jupyter, Streamlit, Android Studio, Git, Google Analytics, PowerBI, Google Cloud, Docker
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
