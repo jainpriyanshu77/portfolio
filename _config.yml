@@ -1,1 +1,5 @@
-
+title: PriyanshuJain
+logo: /asset/img/headshot_circle.png
+#description: title below image
+show downloads: true
+theme: jekyll-theme-minimal
